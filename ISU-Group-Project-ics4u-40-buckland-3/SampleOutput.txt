@@ -1,0 +1,48 @@
+✠ Name your corporation: ^C^C^C{
+  "id": "chatcmpl-8imLfSPaAqYemtsPYqd01Y2Oqc8bJ",
+  "object": "chat.completion",
+  "created": 1705682975,
+  "model": "gpt-3.5-turbo-1106",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"transactionDate\": \"2022-09-15T09:30:00\",\n  \"recipientName\": \"John Doe\",\n  \"recipientEmail\": \"johndoe@example.com\",\n  \"totalAmount\": 150.25\n}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 73,
+    "completion_tokens": 53,
+    "total_tokens": 126
+  },
+  "system_fingerprint": "fp_c596c86df9"
+}
+
+
+✠ Name your corporation: ^C^C^C{
+  "id": "chatcmpl-8imLfSPaAqYemtsPYqd01Y2Oqc8bJ",
+  "object": "chat.completion",
+  "created": 1705682975,
+  "model": "gpt-3.5-turbo-1106",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"transactionDate\": \"2022-09-15T09:30:00\",\n  \"recipientName\": \"John Doe\",\n  \"recipientEmail\": \"johndoe@example.com\",\n  \"totalAmount\": 150.25\n}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 73,
+    "completion_tokens": 53,
+    "total_tokens": 126
+  },
+  "system_fingerprint": "fp_c596c86df9"
+}
